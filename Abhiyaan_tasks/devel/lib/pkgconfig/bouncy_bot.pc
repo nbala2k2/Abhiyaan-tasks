@@ -1,0 +1,8 @@
+prefix=/home/nbala2k2/Abhiyaan_tasks/devel
+
+Name: bouncy_bot
+Description: Description of bouncy_bot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

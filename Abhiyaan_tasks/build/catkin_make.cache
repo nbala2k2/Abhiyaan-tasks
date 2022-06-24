@@ -1,0 +1,2 @@
+bouncy_bot
+-DCATKIN_DEVEL_PREFIX=/home/nbala2k2/Abhiyaan_tasks/devel -DCMAKE_INSTALL_PREFIX=/home/nbala2k2/Abhiyaan_tasks/install -G Unix Makefiles
